@@ -1,0 +1,10 @@
+ID:d013f347-7bff-4515-b7af-fb7b03f70b17 | Cliente:Beatriz Morales | Habitación:101 | Periodo:2026-08-26 11:10:25 a 2026-09-03 11:10:25 | Estado:CONFIRMADA | Confirmada:2026-08-25 11:10:25
+ID:a5731a09-756f-4443-9dc6-85f6d500a95e | Cliente:Beatriz Morales | Habitación:101 | Periodo:2026-08-26 11:10:48 a 2026-09-03 11:10:48 | Estado:CONFIRMADA | Confirmada:2026-08-25 11:10:48
+ID:65bbceea-2401-4601-8eaa-183eaac21509 | Cliente:Beatriz Morales | Habitación:101 | Periodo:2026-08-26 11:11:10 a 2026-09-03 11:11:10 | Estado:CONFIRMADA | Confirmada:2026-08-25 11:11:10
+ID:eb177185-0af6-45a9-93de-6dc9e38868a8 | Cliente:Beatriz Morales | Habitación:101 | Periodo:2026-08-26 11:11:14 a 2026-09-03 11:11:14 | Estado:CONFIRMADA | Confirmada:2026-08-25 11:11:14
+ID:c011b520-c17f-4539-8c64-00dbf4103487 | Cliente:Beatriz Morales | Habitación:101 | Periodo:2026-08-26 11:11:15 a 2026-09-03 11:11:15 | Estado:CONFIRMADA | Confirmada:2026-08-25 11:11:15
+ID:613ab45e-a20d-49e7-a4e2-6bf3dc9faea8 | Cliente:Beatriz Morales | Habitación:101 | Periodo:2026-08-26 11:11:33 a 2026-09-03 11:11:33 | Estado:CONFIRMADA | Confirmada:2026-08-25 11:11:33
+ID:bef18bd6-6c4c-4291-a675-8f5546b79adf | Cliente:Beatriz Morales | Habitación:101 | Periodo:2026-08-26 11:14:00 a 2026-09-03 11:14:00 | Estado:CONFIRMADA | Confirmada:2026-08-25 11:14:00
+ID:3f167a6a-14b5-42c1-8276-70e7494eaaf3 | Cliente:Beatriz Morales | Habitación:101 | Periodo:2026-08-26 11:14:22 a 2026-09-03 11:14:22 | Estado:CONFIRMADA | Confirmada:2026-08-25 11:14:22
+ID:ef8e1db0-ab3f-4dd3-be81-e4efd1ab2946 | Cliente:Beatriz Morales | Habitación:101 | Periodo:2026-08-26 11:14:58 a 2026-09-03 11:14:58 | Estado:CONFIRMADA | Confirmada:2026-08-25 11:14:58
+ID:039bba9a-280b-4c8c-b52f-ffb074798b86 | Cliente:Beatriz Morales | Habitación:101 | Periodo:2026-08-26 16:20:34 a 2026-09-03 16:20:34 | Estado:CONFIRMADA | Confirmada:2026-08-25 16:20:34
