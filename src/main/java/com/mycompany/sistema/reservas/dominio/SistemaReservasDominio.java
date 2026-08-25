@@ -32,13 +32,13 @@ public class SistemaReservasDominio {
 //        reserva.setEstado("CONFIRMADA"); // ¡Una reserva cancelada no debería reconfirmarse sin validar!
 //        
 //        System.out.println("Reserva creada con estado: " + reserva.getEstado());
-        
+
         try {
-            
+
             Email email = new Email("juan.perez@empresa.com");
             Cliente cliente = new Cliente("Juan Pérez", email);
             System.out.println("Cliente creado: " + cliente.getNombre() + " (Activo: " + cliente.isActivo() + ")");
-            
+
             LocalDateTime inicio = LocalDateTime.now().plusDays(1);
             LocalDateTime fin = LocalDateTime.now().plusDays(3);
             RangoFechas periodo = new RangoFechas(inicio, fin);
@@ -52,7 +52,7 @@ public class SistemaReservasDominio {
             reserva.cancelar();
             System.out.println("Estado tras cancelar: " + reserva.getEstado());
 
-            reserva.confirmar(); 
+            reserva.confirmar();
 
         } catch (Exception e) {
             System.err.println("ERROR: " + e.getMessage());
